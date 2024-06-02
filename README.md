@@ -67,7 +67,7 @@ Drunky uses a database from Airtable of common drinks, as seen below:
 ### Step 2:
 
 Determine at what time you drank the beverage(s).
-It then calculates your BAC and whether you're above the legal limit. (Denmark, 0,5 ‰)
+It then calculates your BAC and whether you're above the legal limit (Denmark, 0,5 ‰).
 It also generates a graph that shows a linear decrease and when the BAC should be at 00. 
 
 **Settings**
