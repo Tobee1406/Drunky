@@ -3,6 +3,9 @@
 
 A Blood Alcohol Content(BAC) App.
 
+It saves your settings to a database in Airtable.
+
+
 Drunky uses a database from Airtable of common drinks
 
 <table><thead>
