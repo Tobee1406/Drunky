@@ -78,3 +78,5 @@ It saves your weight to a database in Airtable.
 
 ### Extra features
 A weekly, monthly, and yearly status of whether you drink too much.
+
+It should be able to take into account if you're drinking on an empty, full, or mixed stomach as this should either slow or fasten the decomposition of the alcohol.
