@@ -7,7 +7,7 @@ A Blood Alcohol Content(BAC) App.
 
 ### Setup
 
-Go to settings and enter your weight and gender.
+Go to settings and enter your weight and gender (male/female).
 
 ### Step 1:
 
