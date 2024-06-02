@@ -1,14 +1,21 @@
 # Drunky
-<img src="/assets/img/DrunkyAppLogo.png" style="width:500px">
+<img src="/assets/img/DrunkyAppLogo.png" style="width:400px">
 
 A Blood Alcohol Content(BAC) App.
 
+## Guide
+
+### Setup
+
+Go to settings and enter your weight and gender.
+
+### Step 1:
+
+Select which beverage(s) you have drank from the list. (The list can be edited)
+
+Drunky uses a database from Airtable of common drinks, as seen below:
+
 <img src="/assets/img/AirtableLogo.png" style="width:200px">
-
-It saves your settings to a database in Airtable.
-
-
-Drunky uses a database from Airtable of common drinks
 
 <table><thead>
   <tr>
@@ -56,3 +63,18 @@ Drunky uses a database from Airtable of common drinks
   </tr>
 </tbody>
 </table>
+
+### Step 2:
+
+Determine at what time you drank the beverage(s).
+It then calculates your BAC and whether you're above the legal limit. (Denmark, 0,5 ‰)
+It also generates a graph that shows a linear decrease and when the BAC should be at 00. 
+
+**Settings**
+
+It saves your weight to a database in Airtable.
+
+**Graph**
+
+### Extra features
+A weekly, monthly, and yearly status of whether you drink too much.
