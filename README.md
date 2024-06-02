@@ -19,11 +19,11 @@ Drunky uses a database from Airtable of common drinks
   </tr></thead>
 <tbody>
   <tr>
-    <th>Breezer</th>
-    <th> <img src="/assets/img/Breezer.png" style="width:60px"> </th>
-    <th>11</th>
-    <th>4% 27,5 cl</th>
-  </tr></thead>
+    <td>Breezer</td>
+    <td> <img src="/assets/img/Breezer.png" style="width:60px"> </td>
+    <td>11</td>
+    <td>4% 27,5 cl</td>
+  </tr>
   <tr>
     <td>Øl</td>
     <td> <img src="/assets/img/Øl.jpg" style="width:60px"> </td>
