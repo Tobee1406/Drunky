@@ -1,7 +1,9 @@
 # Drunky
-![](/assets/img/DrunkyAppLogo.png)
+<img src="/assets/img/DrunkyAppLogo.png" style="width:500px">
 
 A Blood Alcohol Content(BAC) App.
+
+<img src="/assets/img/AirtableLogo.png" style="width:200px">
 
 It saves your settings to a database in Airtable.
 
