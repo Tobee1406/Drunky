@@ -7,12 +7,18 @@ Drunky uses a database from Airtable of common drinks
 
 <table><thead>
   <tr>
+    <th>Navn</th>
+    <th></th>
+    <th>Alkohol gram</th>
+    <th>% & mængde</th>
+  </tr></thead>
+<tbody>
+  <tr>
     <th>Breezer</th>
     <th></th>
     <th>11</th>
     <th>4% 27,5 cl</th>
   </tr></thead>
-<tbody>
   <tr>
     <td>Øl</td>
     <td></td>
