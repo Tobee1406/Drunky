@@ -3,7 +3,7 @@
 
 <sup><sup>Design by x_asterjuls_x</sup></sup>
 
-A Blood Alcohol Content(BAC) App.
+Drunky is a Blood Alcohol Content (BAC) App. It gives an estimate of your BAC based on what you have been drinking.
 
 ## Guide
 
