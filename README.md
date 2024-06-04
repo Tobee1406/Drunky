@@ -1,6 +1,7 @@
 # Drunky
 <img src="/assets/img/DrunkyAppLogo.png" style="width:400px">
-Design by x_asterjuls_x
+
+<sup><sup>Design by x_asterjuls_x</sup></sup>
 
 A Blood Alcohol Content(BAC) App.
 
